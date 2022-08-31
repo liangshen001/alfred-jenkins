@@ -36,7 +36,7 @@ npm i -g @liangshen/alfred-jenkins
 
 ### Changelog
 
-* 1.0.1
+* 1.1.0
   1. [x] 搜索Jenkins项目时支持 使用'|'表示或逻辑 如:xxx|xxxx 支持使用'&'表示与逻辑如: xxx&xxx 俩个逻辑同时出现时做先'&'(与)逻辑
   2. [x] 首条添加Open Jenkins URL选项 回车直接在浏览器中打开jenkins地址
   3. [x] 查询Jenkins中的所有Jobs
