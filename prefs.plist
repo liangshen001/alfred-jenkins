@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>host</key>
+	<string>jenkins.longtu.xyz</string>
+	<key>password</key>
+	<string>11a80c78335a99c57def933dd1db506683</string>
+	<key>port</key>
+	<string>6086</string>
+	<key>protocol</key>
+	<string>http</string>
+	<key>username</key>
+	<string>wangliang</string>
+</dict>
+</plist>

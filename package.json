@@ -1,0 +1,25 @@
+{
+    "name": "@liangshen/alfred-jenkins",
+    "version": "1.0.1",
+    "description": "Alfred Workflows For Jenkins",
+    "main": "dist/index.js",
+    "type": "module",
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [
+        "jenkins"
+    ],
+    "author": "Wang Liang <850598163@qq.com>",
+    "repository": "liangshen001/alfred-jenkins",
+    "license": "ISC",
+    "dependencies": {
+        "@liangshen/alfred": "^1.1.20",
+        "@liangshen/jenkins": "1.0.3"
+    },
+    "devDependencies": {
+        "@liangshen/tsconfig": "^1.0.3",
+        "@types/node": "^18.0.0",
+        "typescript": "^4.7.4"
+    }
+}
